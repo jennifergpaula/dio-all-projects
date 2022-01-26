@@ -15,5 +15,5 @@ https://github.com/jennifergpaula/jogoRPG.git
 https://github.com/jennifergpaula/dioSeries.git
 A simple series registration algorithm to practice object-oriented knowledge.
 
-## 5.Repository os the RPG Challenge
+## 5.Repository of the RPG Challenge
 https://github.com/jennifergpaula/gameRPG.git
