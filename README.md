@@ -14,3 +14,6 @@ https://github.com/jennifergpaula/jogoRPG.git
 ## 4.Repository of the Project Challenge: Creating a series registration APP in .NET
 https://github.com/jennifergpaula/dioSeries.git
 A simple series registration algorithm to practice object-oriented knowledge.
+
+## 5.Repository os the RPG Challenge
+https://github.com/jennifergpaula/gameRPG.git
