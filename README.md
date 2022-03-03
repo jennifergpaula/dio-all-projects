@@ -17,3 +17,8 @@ A simple series registration algorithm to practice object-oriented knowledge.
 
 ## 5.Repository of the RPG Challenge
 https://github.com/jennifergpaula/gameRPG.git
+
+## 6.Repository of Bank Challenge
+https://github.com/jennifergpaula/desafio-dio-banco-java.git
+
+Simple implementation of OOP concepts in Java, in a banking context.
