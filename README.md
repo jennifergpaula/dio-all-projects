@@ -22,3 +22,8 @@ https://github.com/jennifergpaula/gameRPG.git
 https://github.com/jennifergpaula/desafio-dio-banco-java.git
 
 Simple implementation of OOP concepts in Java, in a banking context.
+
+## 7. Repository of 'Learn Object Oriented Programming' in Practice
+https://github.com/jennifergpaula/desafio-dio-poo.git
+
+Practice of Object Oriented Programming (OOP) concepts with Java. Worked on the pillars of OO: Abstraction, Encapsulation, Inheritance and Polymorphism. Challenge to help develop your ability to abstract with a real problem.
